@@ -1,0 +1,27 @@
+Exemplo 1:
+
+public class MyClass {
+    public static void main (String args[]){
+        System.out.print("Meu Primeiro Programa");
+    }
+}
+
+Exemplo 2:
+
+public class Continhas {
+    public static void main(String args[]) {
+      int a, b, c;
+      a=27;
+      b=4;
+      c=a+b;
+      System.out.println("Valor do c: "+c);
+      c=a-b;
+      System.out.println("Valor do c: "+c);
+      c=a*b;
+      System.out.println("Valor do c: "+c);
+      c=a/b;
+      System.out.println("Valor do c: "+c);
+      c=a%b;
+      System.out.println("Valor do c: "+c);
+    }
+}
